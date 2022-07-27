@@ -35,8 +35,13 @@
     padding: 18px;
     margin: 4px;
     border: 0;
-    border-radius: 100%;
+    border-radius: 40%;
     background-color: gray;
+}
+
+#appCal input.zero {
+    width: 47%;
+    border-radius: 30%;
 }
 
 #appCal input.orange {
@@ -47,3 +52,4 @@
     background-color: lightgrey;
     color: black;
 }
+
