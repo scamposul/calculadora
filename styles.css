@@ -30,18 +30,18 @@
     cursor: pointer;
     font-family: 'Helvetica', sans-serif;
     font-weight: lighter;
-    font-size: 26px;
+    font-size: 25px;
     color: white;
     padding: 18px;
     margin: 4px;
     border: 0;
-    border-radius: 40%;
+    border-radius: 10%;
     background-color: gray;
 }
 
 #appCal input.zero {
     width: 47%;
-    border-radius: 30%;
+    border-radius: 10%;
 }
 
 #appCal input.orange {
